@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ozzythegrouch
 - 👀 I’m interested in learning web development. Designing websites, making a clean interface for people to interact.
 - 🌱 I’m currently learning javascript, the terminology used by programmers, and touching on the process of front end web development.
-- 💞️ I’m looking to collaborate on projects that create an easy to flow experoence for people navigating websites. Creating an easy experience for users.
+- 💞️ I’m looking to collaborate on projects that create an easy to flow experience for people navigating websites. Creating an easy experience for users.
 - 📫 How to reach me if you need me. I'm available on twitter as @ozzystudio. My email is open for contact as well, iamoscartrejo@gmail.com
 
 <!---
