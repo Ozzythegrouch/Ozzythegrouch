@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on projects that create an easy to flow experiences for people navigating websites. Creating an easy experience for users to find what they are looking for. 
 - 📫 How to reach me if you need me. I'm available on twitter as [@ozzytegrouch](https://twitter.com/ozzytegrouch).
 - My linked in profile to connect with me professionally is located [here](https://www.linkedin.com/in/trejooscar/).
-https://github.com/Ozzythegrouch/leetcode
 <!---
 Ozzythegrouch/Ozzythegrouch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
